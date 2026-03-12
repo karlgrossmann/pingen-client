@@ -1,0 +1,13 @@
+src/
+tests/
+docs/
+.prettierrc
+eslint.config.js
+tsconfig.json
+tsconfig.build.json
+tsup.config.ts
+vitest.config.ts
+.github/
+coverage/
+.env
+.env.*
